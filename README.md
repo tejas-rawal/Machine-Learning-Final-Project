@@ -28,7 +28,7 @@ The validation set contains 1,610 satellite images, the remaining 30% of the ima
 - Fine-tuned using transfer learning
 
 ## Results
-To see results of the trained models, run the `Report.ipynb` notebook. Make sure to run and pass the `Notebook Setup` step first.
+To train the models yourself, open and run the `Report.ipynb` notebook.
 
 Results can also be viewed on [Google Colab](https://colab.research.google.com/drive/14uT-mqkm-0763lcoV17AHgHzxt28CdN-?usp=sharing)
 
