@@ -30,4 +30,6 @@ The validation set contains 1,610 satellite images, the remaining 30% of the ima
 ## Results
 To see results of the trained models, run the `Report.ipynb` notebook. Make sure to run and pass the `Notebook Setup` step first.
 
+Results can also be viewed on [Google Colab](https://colab.research.google.com/drive/14uT-mqkm-0763lcoV17AHgHzxt28CdN-?usp=sharing)
+
 
