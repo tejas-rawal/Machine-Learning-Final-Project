@@ -11,7 +11,7 @@ This dataset contains 40,479 (RGB) satellite images, along with their associated
 
 Due to computation limits, only 5,365 images were used for this project.
 
-## Class Labels
+### Class Labels
 
 ![image info](./class-labels.jpg)
 
